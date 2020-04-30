@@ -16,7 +16,7 @@ require (
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/stretchr/testify v1.3.0
 	github.com/valyala/fasthttp v1.0.0
-	github.com/xeipuuv/gojsonpointer v0.0.0-20190812004523-df4f5c81cb3b // indirect
+	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/yalp/jsonpath v0.0.0-20180802001716-5cc68e5049a0
 	github.com/yudai/gojsondiff v1.0.0
